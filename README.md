@@ -1,6 +1,8 @@
 # medical_specialist_appointment_system
 
-Project scanario:
+Project name: Medical specialist’s appointment system
+
+Description: The project automates all the activities in the provision of medical sevices and eliminates paper and manual works.
 
 Heroes polyclinic is a private clinic that 
 specializes in providing medical services to 
