@@ -28,7 +28,7 @@
 				<div class="logo">
 		<a href="index.html" style="font-size: 30px;">
 			Medical Specialists Appointment System
-		</a> 
+		</a>
 				</div>
 				<!--end-logo-->
 				<!--start-top-nav-->
