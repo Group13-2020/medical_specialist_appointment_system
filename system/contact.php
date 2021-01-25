@@ -30,8 +30,6 @@
 			Medical Specialists Appointment System
 		</a>
 				</div>
-				<!--end-logo-->
-				<!--start-top-nav-->
 				<div class="top-nav">
 					<ul>
 						<li><a href="index.html">Home</a></li>
