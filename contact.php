@@ -11,8 +11,6 @@ echo "<script>alert('Your information succesfully submitted');</script>";
 echo "<script>window.location.href ='contact.php'</script>";
 
 }
-
-
 ?>
 <!DOCTYPE HTML>
 <html>
